@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/merndev" target="blank"><img src="https://img.shields.io/twitter/follow/merndev?logo=twitter&style=for-the-badge" alt="merndev" /></a> </p>
 
-- 🔭 I’m currently working on [Retailers Management Application](https://github.com/abdul-imad/Retailers-Management)
-
-- 🌱 I’m currently learning **Redux,**
+- 🔭 I’m currently working as a frontend developer at **WIZnet India**.
 
 - 💬 Ask me about **Javascript, react, Firebase, FrontEnd development**
 
