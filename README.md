@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/merndev" target="blank"><img src="https://img.shields.io/twitter/follow/merndev?logo=twitter&style=for-the-badge" alt="merndev" /></a> </p>
 
-- 🔭 I’m currently working as a frontend developer at **WIZnet India**.
+- 🔭 I’m currently working as a Software Engineer at **Metafic**.
 
-- 💬 Ask me about **Javascript, react, Firebase, FrontEnd development**
+- 💬 Ask me about **Javascript, Reactjs, GraphQL, Typescript, APIs, Firebase, FrontEnd development**
 
 - 📫 How to reach me **abdimad786@gmail.com**
 
